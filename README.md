@@ -1,2 +1,2 @@
 #code_alpha_image_gallery
-this image gallery is created using css and html
+this image gallery is created using css and html for internship in code alpha
